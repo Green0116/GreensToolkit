@@ -12,4 +12,4 @@ def multiplication_table() -> str :
     #         s += '\t' if j != i else '' 
     #     s += '\n' if i != 9 else ''     
     # return s                            
-    # ----
+    # ---- 
